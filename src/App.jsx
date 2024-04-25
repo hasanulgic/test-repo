@@ -1,13 +1,12 @@
-import Stopwatch from "./component/StopWatch"
+import DateTest from "./component/date/DateTest";
 
 function App() {
-
   return (
     <>
-      <h1>Testing a project</h1>
-      <Stopwatch/>
+      {/* <DateTest /> */}
+      <p>Nothing is here</p>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
